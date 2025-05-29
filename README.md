@@ -1,5 +1,5 @@
 # 💫 About Me:
-Proud Muslim | β MLSA | BE Software Engineer 25'👨‍🎓 | C/C++, Java Programmer | Linux User | IT Technical | Qt Developer | Still Learning and Exploring, Am not expert in all of these, but curious to explore more❤️🔥.
+Proud Muslim | BE Software Engineer 25'👨‍🎓 | Full Stack Dev (MERN) | C/C++, Java Programmer | Linux User (NixOS) | Qt Developer | Still Learning and Exploring, Am not expert in all of these, but curious to explore more
 
 
 ## 🌐 Socials:
