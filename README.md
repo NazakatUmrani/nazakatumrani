@@ -1,6 +1,14 @@
 # 💫 About Me:
 Proud Muslim | BE Software Engineer 25'👨‍🎓 | Full Stack Dev (MERN) | C/C++, Java Programmer | Linux User (NixOS) | Qt Developer | Still Learning and Exploring, Am not expert in all of these, but curious to explore more
 
+### 📄 View my CV (Click of PDF)
+<p align="left">
+<a href="https://drive.google.com/file/d/1ZUxv6mkpg7fYpyAf1Cjafz7T3QN0oD_B/view?usp=drivesdk" target="blank">
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="Download My CV" height="40" width="40" />
+</a>
+</p>
+<br>
+<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nazakatumrani) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nazakatumrani) 
