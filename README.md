@@ -3,7 +3,7 @@ Proud Muslim | BE Software Engineer 25'👨‍🎓 | Full Stack Dev (MERN) | C/C
 
 ### 📄 View my CV (Click of PDF)
 <p align="left">
-<a href="https://drive.google.com/file/d/1ZUxv6mkpg7fYpyAf1Cjafz7T3QN0oD_B/view?usp=drivesdk" target="blank">
+<a href="https://drive.google.com/file/d/1Qp4Mz58G6d2xaotsIvfG05J-SS8X1IQB/view?usp=drivesdk" target="blank">
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="Download My CV" height="40" width="40" />
 </a>
 </p>
